@@ -19,6 +19,6 @@ Gem::Specification.new do |s|
   ]
 
   s.add_dependency "coffee-script"
-  s.add_dependency "eco-source"
+  s.add_dependency "eco-source","1.1.0.rc.1"
   s.add_dependency "execjs"
 end
